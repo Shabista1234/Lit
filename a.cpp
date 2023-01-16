@@ -3,7 +3,8 @@ using namespace std;
 
 int main ()
 {
-    cout <<"Vodka ";
+    cout <<"Rum ";
+    cout <<"2+2 Lays (Cream n Onion )";
 
 }
 return 0;
